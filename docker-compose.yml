@@ -3,4 +3,4 @@ services:
   frontend:
       image: 652115002/234-deploylab-frontend:latest
       ports:
-         - "8085:80"
+         - "8085:8080"
